@@ -33,7 +33,8 @@ $(document).ready(function() {
   });
 });
 
-// Clear field? seems to be doing this automatically
+
+// Clear field? It seems to be doing this automatically
 
 
 
