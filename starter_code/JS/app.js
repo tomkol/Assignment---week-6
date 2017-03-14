@@ -11,7 +11,7 @@ $(document).ready(function() {
 // Match user input with stored tags
 // Match tags to photos
 // Change background photo to match the tag
-  if(background == 'nyc') {
+   if(background == 'nyc') {
     $('body').attr('class','nyc');
   }
 
